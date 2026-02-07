@@ -1,23 +1,12 @@
-# ML2025_seminars
-This is a repository containing seminars for the Machine Learning course (MA060018) in skoltech, which is held at Term 3, 2025.
+# ML2026_seminars
+This is a repository containing seminars for the Machine Learning course (MA060018) in skoltech, which is held at Term 3, 2026.
 
 ## The list of the current seminars published (will be updated with time):
 
-- SEMINAR 1 (04.02): Ilya Trofimov - Machine learning on Titanic data
-- SEMINAR 2 (06.02): Petr Mokrov - Regression. Kernel Trick
-- SEMINAR 3 (07.02): Petr Mokrov- Classification
-- SEMINAR 4 (11.02): Andrey Lange - Decision Trees and Random Forests
-- SEMINAR 5 (14.02): Alexander Marusov - Gradient_Boosting_and_AdaBoost
-- SEMINAR 6 (18.02): Diana Koldasbayeva - Multiclass classification and Imbalanced data
-- SEMINAR 7 (20.02): Razan Dibo - Model and Feature selection
-- SEMINAR 8 (21.02): Maria Ivanova - Gaussian process
-- SEMINAR 9 (28.02): Melina Gazdieva - Shallow Artificial Neural Networks
-- SEMINAR 10 (04.03): Melina Gazdieva - Deep ANN
-- SEMINAR 11 (06.03): Petr Sokerin - Sequential Data
-- SEMINAR 12 (07.03): Eduard Tulchinskiy - Dimensionality Reduction
-- SEMINAR 13 (11.03): Alexander Mironenko - Anomaly Detection
-- SEMINAR 14 (13.03): Igor Udovichenko - Clustering
-- SEMINAR 15 (14.03): Petr Sokerin - Uncertainty
+- SEMINAR 1 (03.02): Daniil Vyazhev - Machine learning on Titanic data
+- SEMINAR 2 (05.02): Petr Mokrov - Regression. Kernel Trick
+- SEMINAR 3 (06.02): Petr Mokrov- Classification
+
 
 ## Course Description:
 
@@ -32,7 +21,7 @@ On completion of the course students are expected to:
 
 ## Lectures:
 
-The lectures of the course can be accessed via the [link](https://github.com/adasegroup/ML2025_lectures)
+The lectures of the course can be accessed via the [link](https://github.com/adasegroup/ML_2026_Lectures)
 
 ## Contact regarding this github repo:
 
