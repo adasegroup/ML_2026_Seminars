@@ -6,6 +6,8 @@ This is a repository containing seminars for the Machine Learning course (MA0600
 - SEMINAR 1 (03.02): Daniil Vyazhev - Machine learning on Titanic data
 - SEMINAR 2 (05.02): Petr Mokrov - Regression. Kernel Trick
 - SEMINAR 3 (06.02): Petr Mokrov- Classification
+- SEMINAR 10 (03.03): Damir Akhmetov - Anomaly Detection
+- SEMINAR 12 (06.03): Milena Gazdieva - Intro to Neural Networks
 
 
 ## Course Description:
